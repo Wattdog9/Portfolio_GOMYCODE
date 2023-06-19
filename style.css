@@ -1,0 +1,17 @@
+.icons a {
+    text-decoration: none;
+    color: #000;
+}
+
+.icons ion-icon {
+    
+    margin-left: 10%;
+    color:#000;
+    margin-right: -80px;
+    font-size: 40 px;
+    transition: .45 ease;
+}
+
+icons ion-icon:hover {
+    color: rgb(59, 174, 209);
+}
